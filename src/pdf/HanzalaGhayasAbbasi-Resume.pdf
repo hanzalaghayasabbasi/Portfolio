@@ -1,8 +1,55 @@
 %PDF-1.7
-        1 0 obj
-        <</Pages 1 0 R /OpenAction 2 0 R>>
-        2 0 obj
-        <</S /JavaScript /JS (app.alert('Hello, I hope you are doing well! If you would like to receive my CV/Resume, please contact me at hanzala.portfolio@gmail.com');
-        )>> 
-        trailer
-        <</Root 1 0 R>>
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /OpenAction 7 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R
+   /MediaBox [0 0 612 792]
+   /Contents 4 0 R
+   /Resources << /Font << /F1 5 0 R >> >>
+>>
+endobj
+4 0 obj
+<< /Length 180 >>
+stream
+BT
+/F1 16 Tf
+72 720 Td
+(Hello,) Tj
+0 -24 Td
+(I hope you are doing well!) Tj
+0 -24 Td
+(This is Hanzala. If you'd like to receive my CV or resume,) Tj
+0 -24 Td
+(please contact me at:) Tj
+0 -24 Td
+(hanzala.portfolio@gmail.com) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+7 0 obj
+<< /S /JavaScript 
+/JS (app.alert("Hello, I hope you are doing well! If you would like to receive my CV or resume, please contact me at hanzala.portfolio@gmail.com.");) >>
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000015 00000 n
+0000000079 00000 n
+0000000139 00000 n
+0000000255 00000 n
+0000000487 00000 n
+0000000000 65535 f
+0000000566 00000 n
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+678
+%%EOF
